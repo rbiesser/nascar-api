@@ -1,0 +1,22 @@
+body {
+    background-color: #2f2f2f;
+}
+
+header {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+main {
+    background-color: whitesmoke;
+    min-height: 50rem;
+}
+
+footer {
+    text-align: center;
+}
