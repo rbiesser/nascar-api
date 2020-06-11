@@ -274,6 +274,10 @@ https://www.nascar.com/cacher/2007/1/final/1-drivers-points.json
 ###################################################
 
 https://www.nascar.com/json/articles
+# developer uses spaces for some of the keys
+# article['Thumb Image']
+# and spelling errors
+# article['Publised Date']
 
 ###
 

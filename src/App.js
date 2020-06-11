@@ -14,7 +14,7 @@ import { Container, Image } from 'semantic-ui-react'
 import Drivers from './Pages/Drivers'
 import Tracks from './Pages/Tracks'
 import Schedule from './Pages/Schedule'
-// import Home from './Pages/Home'
+import Home from './Pages/Home'
 
 export default function App() {
     return (
@@ -32,7 +32,7 @@ export default function App() {
               <Route path='/drivers' component={Drivers} />
               <Route path='/tracks' component={Tracks} />
               <Route path='/schedule' component={Schedule} />
-              <Route path='/' component={Drivers} />
+              <Route path='/' component={Home} />
             </Switch>
           </main>
           <footer>Copyright &copy; {new Date().getFullYear()} NASCAR&trade; | All Rights Reserved</footer>
