@@ -21,7 +21,7 @@ export default function Drivers() {
                                 <div>
                                     <Header as='h1' content='Drivers' />
                                 </div>
-                                <Card.Group itemsPerRow={6}>
+                                <Card.Group itemsPerRow={6} doubling>
                                     {data.response.map(driver => (
                                         <Card
                                             href={driver.Driver_Page}

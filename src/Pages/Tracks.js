@@ -21,7 +21,7 @@ export default function Tracks() {
                                 <div>
                                     <Header as='h1' content='Tracks' />
                                 </div>
-                                <Card.Group itemsPerRow={5}>
+                                <Card.Group itemsPerRow={5} doubling>
                                     {data.items.map(track => (
                                         <Card
                                             href={track.track_url}
