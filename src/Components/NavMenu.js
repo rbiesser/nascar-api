@@ -17,6 +17,9 @@ export default function NavMenu() {
             <Menu.Item>
                 <NavLink to='/schedule'>Schedule</NavLink>
             </Menu.Item>
+            <Menu.Item>
+                <NavLink to='/standings'>Standings</NavLink>
+            </Menu.Item>
         </Menu>
     )
 }

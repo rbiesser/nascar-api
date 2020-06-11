@@ -14,6 +14,7 @@ import { Container, Image } from 'semantic-ui-react'
 import Drivers from './Pages/Drivers'
 import Tracks from './Pages/Tracks'
 import Schedule from './Pages/Schedule'
+import Standings from './Pages/Standings'
 import Home from './Pages/Home'
 
 export default function App() {
@@ -32,6 +33,7 @@ export default function App() {
               <Route path='/drivers' component={Drivers} />
               <Route path='/tracks' component={Tracks} />
               <Route path='/schedule' component={Schedule} />
+              <Route path='/standings' component={Standings} />
               <Route path='/' component={Home} />
             </Switch>
           </main>
