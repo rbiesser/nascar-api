@@ -1,0 +1,281 @@
+# Open with VS Code and REST Client extension
+# https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
+#######################################################
+                                                       
+ #      # #    # ######    ###### ###### ###### #####  
+ #      # #    # #         #      #      #      #    # 
+ #      # #    # #####     #####  #####  #####  #    # 
+ #      # #    # #         #      #      #      #    # 
+ #      #  #  #  #         #      #      #      #    # 
+ ###### #   ##   ######    #      ###### ###### #####  
+                                                       
+#######################################################
+
+# live-feed gets updated each second during the raceday
+# when the race is over, the response contains the final lap info
+https://www.nascar.com/live/feeds/live-feed.json
+
+###
+
+# eventually the live-feed will reset to nulls and zero
+# but continues to be requested each second by the browser.
+# live feeds gets archived here by race_id
+# this is the first race I explored
+https://www.nascar.com/live/feeds/series_1/4973/live_feed.json
+
+###
+
+# a record is given for each lap, for each driver
+https://www.nascar.com/cacher/2020/1/4973/lap-times.json
+
+###
+
+https://www.nascar.com/cacher/2020/1/4973/weekend-feed.json
+
+
+# discovered a new url
+https://www.nascar.com/live/feeds/series_1/4968/live_feed.json
+
+###
+
+# info on past races were discovered by browsing
+# https://www.nascar.com/results/racecenter/2020/nascar-cup-series/toyota-500/
+# but the web UI is much slower than api requests
+
+###
+
+https://www.nascar.com/cacher/2020/1/4972/lap-times.json
+
+###
+
+https://www.nascar.com/cacher/2020/1/4972/weekend-feed.json
+
+###
+
+# you can see that data for each race can be requested by race_id
+# in this case 4971
+https://www.nascar.com/cacher/2020/1/4971/lap-times.json
+
+###
+
+##################################################
+                                                  
+ #    # ###### ###### #    # ###### #    # #####  
+ #    # #      #      #   #  #      ##   # #    # 
+ #    # #####  #####  ####   #####  # #  # #    # 
+ # ## # #      #      #  #   #      #  # # #    # 
+ ##  ## #      #      #   #  #      #   ## #    # 
+ #    # ###### ###### #    # ###### #    # #####  
+                                                  
+##################################################
+
+https://www.nascar.com/cacher/2020/1/4967/weekend-feed.json
+
+###
+
+# but the race_id is not sequential
+# see schedule to get race_id
+https://www.nascar.com/cacher/2020/1/4885/weekend-feed.json
+
+###
+
+https://www.nascar.com/cacher/2020/1/4968/weekend-feed.json
+
+###
+
+#############################################
+                                             
+ #####  #####  # #    # ###### #####   ####  
+ #    # #    # # #    # #      #    # #      
+ #    # #    # # #    # #####  #    #  ####  
+ #    # #####  # #    # #      #####       # 
+ #    # #   #  #  #  #  #      #   #  #    # 
+ #####  #    # #   ##   ###### #    #  ####  
+                                             
+#############################################
+
+https://www.nascar.com/json/drivers/
+# contains status, message, response
+# developer used capital word names in response
+# only current drivers?
+# doesn't contain all information listed on individual pages
+# but can browse to URL and scrape the page
+# Nascar_Driver_ID
+# Driver_ID
+# Name
+# DOB
+# Hometown
+# images
+# Driver_Page
+
+###
+
+###################################
+                                   
+ ##### ######   ##   #    #  ####  
+   #   #       #  #  ##  ## #      
+   #   #####  #    # # ## #  ####  
+   #   #      ###### #    #      # 
+   #   #      #    # #    # #    # 
+   #   ###### #    # #    #  ####  
+                                   
+###################################
+
+https://www.nascar.com/json/teams
+# developer escapes the slashes
+
+###
+
+##########################################
+                                          
+ ##### #####    ##    ####  #    #  ####  
+   #   #    #  #  #  #    # #   #  #      
+   #   #    # #    # #      ####    ####  
+   #   #####  ###### #      #  #        # 
+   #   #   #  #    # #    # #   #  #    # 
+   #   #    # #    #  ####  #    #  ####  
+                                          
+##########################################
+
+https://www.nascar.com/cacher/tracks/tracks-feed.json
+
+# track_id
+# track_name
+# address
+# city
+# state
+# zip
+# year_built
+# track_type
+# length
+
+###
+
+https://www.nascar.com/json/tracks/
+# similar data but adds track_url
+
+###
+
+#########################################################
+                                                         
+  ####   ####  #    # ###### #####  #    # #      ###### 
+ #      #    # #    # #      #    # #    # #      #      
+  ####  #      ###### #####  #    # #    # #      #####  
+      # #      #    # #      #    # #    # #      #      
+ #    # #    # #    # #      #    # #    # #      #      
+  ####   ####  #    # ###### #####   ####  ###### ###### 
+
+#########################################################
+
+### NASCAR Cup Series
+https://www.nascar.com/cacher/2020/1/race_list_basic.json
+# race_id
+# series_id
+# race_season
+# race_name
+# track_name
+# laps
+# date
+# race_time
+# winner_driver_id
+
+### Xfinity Series
+https://www.nascar.com/cacher/2020/2/race_list_basic.json
+
+### Gander RV & Outdoors Truck Series
+https://www.nascar.com/cacher/2020/3/race_list_basic.json
+
+https://www.nascar.com/cacher/2020/1/schedule-combined-feed.json
+# developer used capital word names
+# similar details but with image URLs
+# Race_Logo
+# Track_Page_URL
+# Track_Image_URL
+# Race_URL
+
+###
+
+# you can request by year up to 2015 (5 years)
+# but the same data may not be available for all
+https://www.nascar.com/cacher/2015/1/race_list_basic.json
+
+###
+
+# the schedule-combined-feed is a year less
+# the 2016 schedule features links to race-center.nascar.com
+# which doesn't exist anymore
+https://www.nascar.com/cacher/2016/1/schedule-combined-feed.json
+
+###
+
+###
+
+# race results info through 2017 season is available (3 years)
+# first get the schedle for the year
+https://www.nascar.com/cacher/2017/1/race_list_basic.json
+###
+# then use the race_id
+https://www.nascar.com/live/feeds/series_1/4576/live_feed.json
+
+###
+
+###
+
+# but not lap times or weekend info
+# these are only available for the current year
+https://www.nascar.com/cacher/2020/1/race_list_basic.json
+###
+https://www.nascar.com/cacher/2020/1/4868/lap-times.json
+###
+https://www.nascar.com/cacher/2020/1/4868/weekend-feed.json
+
+###
+
+#####################################
+                                     
+ #####   ####  # #    # #####  ####  
+ #    # #    # # ##   #   #   #      
+ #    # #    # # # #  #   #    ####  
+ #####  #    # # #  # #   #        # 
+ #      #    # # #   ##   #   #    # 
+ #       ####  # #    #   #    ####  
+                                     
+#####################################
+
+### drivers points
+https://www.nascar.com/cacher/2020/1/final/1-drivers-points.json
+
+### owners points
+https://www.nascar.com/cacher/2020/1/final/1-owners-points.json
+# same list but with owner_name
+
+### manufacturer points
+https://www.nascar.com/cacher/2020/1/final/1-manufacturer-points.json
+# there's only three: Ford, Toyota, Chevrolet
+# the developer escapes the slashes
+
+###
+
+# you can request points through 2007 (13 years)
+https://www.nascar.com/cacher/2007/1/final/1-drivers-points.json
+
+###
+
+###################################################
+                                                   
+   ##   #####  ##### #  ####  #      ######  ####  
+  #  #  #    #   #   # #    # #      #      #      
+ #    # #    #   #   # #      #      #####   ####  
+ ###### #####    #   # #      #      #           # 
+ #    # #   #    #   # #    # #      #      #    # 
+ #    # #    #   #   #  ####  ###### ######  ####  
+                                                   
+###################################################
+
+https://www.nascar.com/json/articles
+
+###
+
+# banner font
+# https://onlineasciitools.com/convert-text-to-ascii-art

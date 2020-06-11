@@ -1,0 +1,3780 @@
+{
+	"lap_number": 500,
+	"elapsed_time": 12235,
+	"flag_state": 4,
+	"race_id": 4973,
+	"laps_in_race": 500,
+	"laps_to_go": 0,
+	"vehicles": [
+		{
+			"average_restart_speed": 90.395,
+			"average_running_position": 8.312,
+			"average_speed": 77.383,
+			"best_lap": 406,
+			"best_lap_speed": 93.943,
+			"best_lap_time": 20.157,
+			"vehicle_manufacturer": "Tyt",
+			"vehicle_number": "19",
+			"driver": {
+				"driver_id": 3368,
+				"full_name": "Martin Truex Jr.",
+				"first_name": "Martin",
+				"last_name": "Truex Jr.",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12235.283,
+			"fastest_laps_run": 58,
+			"laps_position_improved": 39,
+			"laps_completed": 500,
+			"laps_led": [
+				{
+					"start_lap": 115,
+					"end_lap": 115
+				},
+				{
+					"start_lap": 370,
+					"end_lap": 500
+				}
+			],
+			"last_lap_speed": 87.283,
+			"last_lap_time": 21.695,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1619.15,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1668.032
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2922.383,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2970.6
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3592.349,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3639.435
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3700.357,
+					"pit_in_lap_count": 135,
+					"pit_in_leader_lap": 135,
+					"pit_out_elapsed_time": 3770.229
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6705.598,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6753.76
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8271.256,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8317.98
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9950.909,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 9997.03
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 1,
+			"status": 1,
+			"delta": 0.0,
+			"sponsor_name": "SiriusXM",
+			"starting_position": 5,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 90.201,
+			"average_running_position": 8.852,
+			"average_speed": 77.353,
+			"best_lap": 274,
+			"best_lap_speed": 93.299,
+			"best_lap_time": 20.296,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "12",
+			"driver": {
+				"driver_id": 4023,
+				"full_name": "Ryan Blaney",
+				"first_name": "Ryan",
+				"last_name": "Blaney",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12239.988,
+			"fastest_laps_run": 51,
+			"laps_position_improved": 41,
+			"laps_completed": 500,
+			"laps_led": [
+				{
+					"start_lap": 0,
+					"end_lap": 0
+				},
+				{
+					"start_lap": 272,
+					"end_lap": 283
+				},
+				{
+					"start_lap": 307,
+					"end_lap": 328
+				}
+			],
+			"last_lap_speed": 85.42,
+			"last_lap_time": 22.168,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1664.255,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1713.607
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2985.371,
+					"pit_in_lap_count": 115,
+					"pit_in_leader_lap": 115,
+					"pit_out_elapsed_time": 3035.961
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3601.219,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3647.574
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6692.307,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6739.759
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8267.612,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8319.525
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9957.974,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10005.23
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 2,
+			"status": 1,
+			"delta": 4.705,
+			"sponsor_name": "Menards/Cardell Cabinetry",
+			"starting_position": 1,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 89.611,
+			"average_running_position": 12.526,
+			"average_speed": 77.349,
+			"best_lap": 335,
+			"best_lap_speed": 93.497,
+			"best_lap_time": 20.253,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "2",
+			"driver": {
+				"driver_id": 1816,
+				"full_name": "Brad Keselowski",
+				"first_name": "Brad",
+				"last_name": "Keselowski",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12240.596,
+			"fastest_laps_run": 23,
+			"laps_position_improved": 44,
+			"laps_completed": 500,
+			"laps_led": [
+				{
+					"start_lap": 365,
+					"end_lap": 369
+				}
+			],
+			"last_lap_speed": 87.882,
+			"last_lap_time": 21.547,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1667.44,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1730.628
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2978.303,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 115,
+					"pit_out_elapsed_time": 3027.469
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3659.86,
+					"pit_in_lap_count": 134,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3714.64
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6702.633,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6751.126
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8268.037,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8316.625
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9951.35,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 9998.822
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 3,
+			"status": 1,
+			"delta": 5.313,
+			"sponsor_name": "PPG",
+			"starting_position": 6,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 91.683,
+			"average_running_position": 2.076,
+			"average_speed": 77.325,
+			"best_lap": 123,
+			"best_lap_speed": 93.905,
+			"best_lap_time": 20.165,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "22",
+			"driver": {
+				"driver_id": 3859,
+				"full_name": "Joey Logano",
+				"first_name": "Joey",
+				"last_name": "Logano",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12244.386,
+			"fastest_laps_run": 61,
+			"laps_position_improved": 15,
+			"laps_completed": 500,
+			"laps_led": [
+				{
+					"start_lap": 20,
+					"end_lap": 62
+				},
+				{
+					"start_lap": 64,
+					"end_lap": 114
+				},
+				{
+					"start_lap": 121,
+					"end_lap": 201
+				},
+				{
+					"start_lap": 284,
+					"end_lap": 306
+				},
+				{
+					"start_lap": 329,
+					"end_lap": 364
+				}
+			],
+			"last_lap_speed": 87.114,
+			"last_lap_time": 21.737,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1607.592,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1657.269
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2921.01,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2967.947
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6695.424,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6743.753
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8268.488,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8315.413
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9951.865,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 9999.249
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 4,
+			"status": 1,
+			"delta": 9.103,
+			"sponsor_name": "Shell Pennzoil",
+			"starting_position": 3,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 90.198,
+			"average_running_position": 5.036,
+			"average_speed": 77.31,
+			"best_lap": 17,
+			"best_lap_speed": 93.654,
+			"best_lap_time": 20.219,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "9",
+			"driver": {
+				"driver_id": 4062,
+				"full_name": "Chase Elliott",
+				"first_name": "Chase",
+				"last_name": "Elliott",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12246.764,
+			"fastest_laps_run": 29,
+			"laps_position_improved": 34,
+			"laps_completed": 500,
+			"laps_led": [
+				{
+					"start_lap": 63,
+					"end_lap": 63
+				}
+			],
+			"last_lap_speed": 85.552,
+			"last_lap_time": 22.134,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1611.443,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1658.374
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2924.069,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2971.175
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3593.561,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3641.346
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6699.507,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6749.465
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8270.205,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8317.443
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9952.923,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 9999.959
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 5,
+			"status": 1,
+			"delta": 11.481,
+			"sponsor_name": "NAPA Auto Parts",
+			"starting_position": 11,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 89.533,
+			"average_running_position": 9.18,
+			"average_speed": 77.301,
+			"best_lap": 408,
+			"best_lap_speed": 92.869,
+			"best_lap_time": 20.39,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "88",
+			"driver": {
+				"driver_id": 4045,
+				"full_name": "Alex Bowman",
+				"first_name": "Alex",
+				"last_name": "Bowman",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12248.209,
+			"fastest_laps_run": 18,
+			"laps_position_improved": 32,
+			"laps_completed": 500,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 83.788,
+			"last_lap_time": 22.6,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1669.308,
+					"pit_in_lap_count": 63,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1726.698
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2929.584,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 3003.697
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3597.731,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3645.795
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6697.13,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6745.687
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8270.785,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8318.639
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9954.793,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10002.38
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 6,
+			"status": 1,
+			"delta": 12.926,
+			"sponsor_name": "ChevyGoods.com/Adam's Polishes",
+			"starting_position": 8,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 89.169,
+			"average_running_position": 9.912,
+			"average_speed": 77.294,
+			"best_lap": 144,
+			"best_lap_speed": 93.079,
+			"best_lap_time": 20.344,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "21",
+			"driver": {
+				"driver_id": 3916,
+				"full_name": "Matt DiBenedetto",
+				"first_name": "Matt",
+				"last_name": "DiBenedetto",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12249.372,
+			"fastest_laps_run": 2,
+			"laps_position_improved": 45,
+			"laps_completed": 500,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 87.396,
+			"last_lap_time": 21.667,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1613.27,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1662.035
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2924.942,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2973.349
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6755.222,
+					"pit_in_lap_count": 265,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6810.59
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8277.482,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8329.113
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9956.726,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10006.22
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 7,
+			"status": 1,
+			"delta": 14.089,
+			"sponsor_name": "Motorcraft/Quick Lane",
+			"starting_position": 19,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 89.207,
+			"average_running_position": 10.648,
+			"average_speed": 77.29,
+			"best_lap": 146,
+			"best_lap_speed": 92.502,
+			"best_lap_time": 20.471,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "24",
+			"driver": {
+				"driver_id": 4184,
+				"full_name": "William Byron",
+				"first_name": "William",
+				"last_name": "Byron",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12250.003,
+			"fastest_laps_run": 13,
+			"laps_position_improved": 46,
+			"laps_completed": 500,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 87.545,
+			"last_lap_time": 21.63,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1612.832,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1662.841
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2923.213,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2971.914
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3595.421,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3644.53
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6698.98,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6748.795
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6905.616,
+					"pit_in_lap_count": 268,
+					"pit_in_leader_lap": 268,
+					"pit_out_elapsed_time": 6946.854
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8276.675,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8326.257
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8436.814,
+					"pit_in_lap_count": 330,
+					"pit_in_leader_lap": 330,
+					"pit_out_elapsed_time": 8475.73
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9959.883,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10009.36
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 8,
+			"status": 1,
+			"delta": 14.72,
+			"sponsor_name": "Axalta",
+			"starting_position": 15,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 90.005,
+			"average_running_position": 8.532,
+			"average_speed": 77.274,
+			"best_lap": 19,
+			"best_lap_speed": 93.134,
+			"best_lap_time": 20.332,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "1",
+			"driver": {
+				"driver_id": 453,
+				"full_name": "Kurt Busch",
+				"first_name": "Kurt",
+				"last_name": "Busch",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12252.469,
+			"fastest_laps_run": 7,
+			"laps_position_improved": 37,
+			"laps_completed": 500,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.795,
+			"last_lap_time": 21.817,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1618.37,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1667.103
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2921.948,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2971.1
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3594.099,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3642.624
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6699.977,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6758.035
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8273.862,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8321.858
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9960.324,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10007.472
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 9,
+			"status": 1,
+			"delta": 17.186,
+			"sponsor_name": "Monster Energy",
+			"starting_position": 9,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 90.123,
+			"average_running_position": 5.888,
+			"average_speed": 77.265,
+			"best_lap": 123,
+			"best_lap_speed": 93.198,
+			"best_lap_time": 20.318,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "48",
+			"driver": {
+				"driver_id": 1717,
+				"full_name": "Jimmie Johnson",
+				"first_name": "Jimmie",
+				"last_name": "Johnson",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12253.923,
+			"fastest_laps_run": 24,
+			"laps_position_improved": 35,
+			"laps_completed": 500,
+			"laps_led": [
+				{
+					"start_lap": 202,
+					"end_lap": 271
+				}
+			],
+			"last_lap_speed": 87.074,
+			"last_lap_time": 21.747,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1614.016,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1663.308
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2923.623,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2970.011
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6691.143,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6738.388
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8269.642,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8316.673
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9955.213,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10003.623
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 10,
+			"status": 1,
+			"delta": 18.64,
+			"sponsor_name": "Ally",
+			"starting_position": 21,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.831,
+			"average_running_position": 12.052,
+			"average_speed": 77.264,
+			"best_lap": 338,
+			"best_lap_speed": 92.07,
+			"best_lap_time": 20.567,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "43",
+			"driver": {
+				"driver_id": 4025,
+				"full_name": "Bubba Wallace",
+				"first_name": "Bubba",
+				"last_name": "Wallace",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12254.093,
+			"fastest_laps_run": 17,
+			"laps_position_improved": 50,
+			"laps_completed": 500,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.862,
+			"last_lap_time": 21.8,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1619.664,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1667.965
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2924.571,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2965.953
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3593.072,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3647.817
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6698.488,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6748.043
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8273.409,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8325.249
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9958.531,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10008.483
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 11,
+			"status": 1,
+			"delta": 18.81,
+			"sponsor_name": "Richard Petty Motorsports",
+			"starting_position": 23,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.665,
+			"average_running_position": 13.442,
+			"average_speed": 77.254,
+			"best_lap": 280,
+			"best_lap_speed": 91.735,
+			"best_lap_time": 20.642,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "6",
+			"driver": {
+				"driver_id": 2394,
+				"full_name": "Ryan Newman",
+				"first_name": "Ryan",
+				"last_name": "Newman",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12255.639,
+			"fastest_laps_run": 7,
+			"laps_position_improved": 36,
+			"laps_completed": 500,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.628,
+			"last_lap_time": 21.859,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1622.144,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1670.865
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2927.891,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2978.561
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3598.341,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3647.17
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6703.697,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6752.066
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8274.255,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8322.476
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9956.336,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10004.122
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 12,
+			"status": 1,
+			"delta": 20.356,
+			"sponsor_name": "Koch Industries",
+			"starting_position": 16,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.427,
+			"average_running_position": 13.04,
+			"average_speed": 77.252,
+			"best_lap": 335,
+			"best_lap_speed": 92.529,
+			"best_lap_time": 20.465,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "17",
+			"driver": {
+				"driver_id": 3989,
+				"full_name": "Chris Buescher",
+				"first_name": "Chris",
+				"last_name": "Buescher",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12255.973,
+			"fastest_laps_run": 6,
+			"laps_position_improved": 40,
+			"laps_completed": 500,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 87.106,
+			"last_lap_time": 21.739,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1621.24,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1669.973
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2925.98,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2974.399
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3596.772,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3646.299
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6702.16,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6751.228
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8274.851,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8323.064
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9957.389,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10005.706
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 13,
+			"status": 1,
+			"delta": 20.69,
+			"sponsor_name": "Fastenal",
+			"starting_position": 24,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.721,
+			"average_running_position": 14.008,
+			"average_speed": 77.246,
+			"best_lap": 23,
+			"best_lap_speed": 91.798,
+			"best_lap_time": 20.628,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "34",
+			"driver": {
+				"driver_id": 3832,
+				"full_name": "Michael McDowell",
+				"first_name": "Michael",
+				"last_name": "McDowell",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12256.968,
+			"fastest_laps_run": 6,
+			"laps_position_improved": 41,
+			"laps_completed": 500,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 85.656,
+			"last_lap_time": 22.107,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1616.92,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1666.082
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2925.471,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2976.119
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6705.111,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6755.594
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8276.236,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8326.489
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9959.316,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10007.636
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 14,
+			"status": 1,
+			"delta": 21.685,
+			"sponsor_name": "The Pete Store",
+			"starting_position": 29,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 89.902,
+			"average_running_position": 6.81,
+			"average_speed": 77.211,
+			"best_lap": 276,
+			"best_lap_speed": 93.373,
+			"best_lap_time": 20.28,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "4",
+			"driver": {
+				"driver_id": 1416,
+				"full_name": "Kevin Harvick",
+				"first_name": "Kevin",
+				"last_name": "Harvick",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12237.974,
+			"fastest_laps_run": 20,
+			"laps_position_improved": 34,
+			"laps_completed": 499,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.565,
+			"last_lap_time": 21.875,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1618.797,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1666.005
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2922.798,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2970.819
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3594.586,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3641.705
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6698.023,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6746.2
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8268.974,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8318.636
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9955.919,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10003.542
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 15,
+			"status": 1,
+			"delta": -1.0,
+			"sponsor_name": "Hunt Brothers Pizza",
+			"starting_position": 10,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 89.0,
+			"average_running_position": 13.18,
+			"average_speed": 77.154,
+			"best_lap": 277,
+			"best_lap_speed": 92.272,
+			"best_lap_time": 20.522,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "8",
+			"driver": {
+				"driver_id": 4065,
+				"full_name": "Tyler Reddick #",
+				"first_name": "Tyler",
+				"last_name": "Reddick #",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12247.055,
+			"fastest_laps_run": 5,
+			"laps_position_improved": 34,
+			"laps_completed": 499,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.081,
+			"last_lap_time": 21.998,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1624.041,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1677.212
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2926.971,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2977.947
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3597.279,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3646.221
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6700.731,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 264,
+					"pit_out_elapsed_time": 6750.12
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8272.94,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 327,
+					"pit_out_elapsed_time": 8323.701
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9961.263,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10018.722
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 16,
+			"status": 1,
+			"delta": -1.0,
+			"sponsor_name": "Cat Fleet Monitoring",
+			"starting_position": 14,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 89.953,
+			"average_running_position": 10.852,
+			"average_speed": 77.141,
+			"best_lap": 123,
+			"best_lap_speed": 93.71,
+			"best_lap_time": 20.207,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "14",
+			"driver": {
+				"driver_id": 339,
+				"full_name": "Clint Bowyer",
+				"first_name": "Clint",
+				"last_name": "Bowyer",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12249.086,
+			"fastest_laps_run": 11,
+			"laps_position_improved": 23,
+			"laps_completed": 499,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.01,
+			"last_lap_time": 22.016,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1612.224,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1659.197
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2921.419,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2968.057
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6745.246,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6793.581
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8332.009,
+					"pit_in_lap_count": 328,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8397.403
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9966.482,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10020.853
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 17,
+			"status": 1,
+			"delta": -1.0,
+			"sponsor_name": "Rush Truck Centers",
+			"starting_position": 4,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.912,
+			"average_running_position": 17.132,
+			"average_speed": 77.125,
+			"best_lap": 21,
+			"best_lap_speed": 92.07,
+			"best_lap_time": 20.567,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "32",
+			"driver": {
+				"driver_id": 4096,
+				"full_name": "Corey LaJoie",
+				"first_name": "Corey",
+				"last_name": "LaJoie",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12251.544,
+			"fastest_laps_run": 0,
+			"laps_position_improved": 28,
+			"laps_completed": 499,
+			"laps_led": [
+				{
+					"start_lap": 116,
+					"end_lap": 120
+				}
+			],
+			"last_lap_speed": 86.163,
+			"last_lap_time": 21.977,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1623.324,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1678.44
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3599.332,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3649.241
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6743.156,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6795.188
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10021.359,
+					"pit_in_lap_count": 399,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10079.186
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 18,
+			"status": 1,
+			"delta": -1.0,
+			"sponsor_name": "Keen Parts",
+			"starting_position": 25,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 89.662,
+			"average_running_position": 21.64,
+			"average_speed": 77.096,
+			"best_lap": 4,
+			"best_lap_speed": 93.516,
+			"best_lap_time": 20.249,
+			"vehicle_manufacturer": "Tyt",
+			"vehicle_number": "18",
+			"driver": {
+				"driver_id": 454,
+				"full_name": "Kyle Busch",
+				"first_name": "Kyle",
+				"last_name": "Busch",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12256.306,
+			"fastest_laps_run": 15,
+			"laps_position_improved": 33,
+			"laps_completed": 499,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.922,
+			"last_lap_time": 21.785,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1610.118,
+					"pit_in_lap_count": 61,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1682.779
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1726.312,
+					"pit_in_lap_count": 63,
+					"pit_in_leader_lap": 64,
+					"pit_out_elapsed_time": 1784.34
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3601.679,
+					"pit_in_lap_count": 132,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3668.951
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3713.581,
+					"pit_in_lap_count": 134,
+					"pit_in_leader_lap": 135,
+					"pit_out_elapsed_time": 3777.391
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3827.45,
+					"pit_in_lap_count": 136,
+					"pit_in_leader_lap": 138,
+					"pit_out_elapsed_time": 3881.681
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6744.313,
+					"pit_in_lap_count": 263,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6793.599
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10011.87,
+					"pit_in_lap_count": 398,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10068.572
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 19,
+			"status": 1,
+			"delta": -1.0,
+			"sponsor_name": "M&M's Fudge Brownie",
+			"starting_position": 7,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 89.22,
+			"average_running_position": 19.676,
+			"average_speed": 76.879,
+			"best_lap": 335,
+			"best_lap_speed": 92.724,
+			"best_lap_time": 20.422,
+			"vehicle_manufacturer": "Tyt",
+			"vehicle_number": "20",
+			"driver": {
+				"driver_id": 4059,
+				"full_name": "Erik Jones",
+				"first_name": "Erik",
+				"last_name": "Jones",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12241.619,
+			"fastest_laps_run": 3,
+			"laps_position_improved": 24,
+			"laps_completed": 497,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 87.513,
+			"last_lap_time": 21.638,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1621.718,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1673.099
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2928.415,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2979.79
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3600.12,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3648.788
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6750.667,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6804.462
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8329.864,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8401.644
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8449.261,
+					"pit_in_lap_count": 329,
+					"pit_in_leader_lap": 331,
+					"pit_out_elapsed_time": 8497.907
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10003.701,
+					"pit_in_lap_count": 397,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10053.485
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 20,
+			"status": 1,
+			"delta": -3.0,
+			"sponsor_name": "Genuine Parts",
+			"starting_position": 13,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.48,
+			"average_running_position": 20.914,
+			"average_speed": 76.867,
+			"best_lap": 19,
+			"best_lap_speed": 91.483,
+			"best_lap_time": 20.699,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "47",
+			"driver": {
+				"driver_id": 3888,
+				"full_name": "Ricky Stenhouse Jr.",
+				"first_name": "Ricky",
+				"last_name": "Stenhouse Jr.",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12243.457,
+			"fastest_laps_run": 5,
+			"laps_position_improved": 31,
+			"laps_completed": 497,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.608,
+			"last_lap_time": 21.864,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1620.735,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1671.982
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2926.442,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2977.16
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3602.315,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3652.468
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6747.791,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6800.104
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8319.412,
+					"pit_in_lap_count": 326,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8372.984
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10008.235,
+					"pit_in_lap_count": 397,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10060.449
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 21,
+			"status": 1,
+			"delta": -3.0,
+			"sponsor_name": "Kroger",
+			"starting_position": 17,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 87.758,
+			"average_running_position": 26.036,
+			"average_speed": 76.855,
+			"best_lap": 146,
+			"best_lap_speed": 91.034,
+			"best_lap_time": 20.801,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "13",
+			"driver": {
+				"driver_id": 4013,
+				"full_name": "Ty Dillon",
+				"first_name": "Ty",
+				"last_name": "Dillon",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12245.334,
+			"fastest_laps_run": 0,
+			"laps_position_improved": 37,
+			"laps_completed": 497,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.894,
+			"last_lap_time": 21.792,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1666.437,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1723.648
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2983.678,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 115,
+					"pit_out_elapsed_time": 3033.748
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3652.569,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3700.508
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6743.812,
+					"pit_in_lap_count": 263,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6796.246
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6918.423,
+					"pit_in_lap_count": 266,
+					"pit_in_leader_lap": 268,
+					"pit_out_elapsed_time": 6961.255
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8328.772,
+					"pit_in_lap_count": 326,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8378.112
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 22,
+			"status": 1,
+			"delta": -3.0,
+			"sponsor_name": "GEICO",
+			"starting_position": 30,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.877,
+			"average_running_position": 23.996,
+			"average_speed": 76.851,
+			"best_lap": 20,
+			"best_lap_speed": 91.958,
+			"best_lap_time": 20.592,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "42",
+			"driver": {
+				"driver_id": 1810,
+				"full_name": "Matt Kenseth",
+				"first_name": "Matt",
+				"last_name": "Kenseth",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12246.019,
+			"fastest_laps_run": 1,
+			"laps_position_improved": 27,
+			"laps_completed": 497,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.288,
+			"last_lap_time": 21.945,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1662.746,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1718.767
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2982.825,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 115,
+					"pit_out_elapsed_time": 3033.016
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3648.884,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3698.897
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6747.335,
+					"pit_in_lap_count": 263,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6795.677
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8326.706,
+					"pit_in_lap_count": 326,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8383.598
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 23,
+			"status": 1,
+			"delta": -3.0,
+			"sponsor_name": "Credit One Bank",
+			"starting_position": 20,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.839,
+			"average_running_position": 24.206,
+			"average_speed": 76.843,
+			"best_lap": 18,
+			"best_lap_speed": 92.38,
+			"best_lap_time": 20.498,
+			"vehicle_manufacturer": "Tyt",
+			"vehicle_number": "11",
+			"driver": {
+				"driver_id": 1361,
+				"full_name": "Denny Hamlin",
+				"first_name": "Denny",
+				"last_name": "Hamlin",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12247.264,
+			"fastest_laps_run": 0,
+			"laps_position_improved": 32,
+			"laps_completed": 497,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.482,
+			"last_lap_time": 21.896,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1665.388,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1715.368
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2981.366,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 115,
+					"pit_out_elapsed_time": 3029.237
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3648.181,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3697.309
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6752.199,
+					"pit_in_lap_count": 263,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6815.047
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10009.493,
+					"pit_in_lap_count": 397,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10057.343
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 24,
+			"status": 1,
+			"delta": -3.0,
+			"sponsor_name": "FedEx Freight",
+			"starting_position": 12,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.268,
+			"average_running_position": 21.388,
+			"average_speed": 76.82,
+			"best_lap": 77,
+			"best_lap_speed": 91.209,
+			"best_lap_time": 20.761,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "38",
+			"driver": {
+				"driver_id": 4092,
+				"full_name": "John Hunter Nemechek #",
+				"first_name": "John Hunter",
+				"last_name": "Nemechek #",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12251.006,
+			"fastest_laps_run": 4,
+			"laps_position_improved": 30,
+			"laps_completed": 497,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.273,
+			"last_lap_time": 21.949,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1658.513,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1708.306
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3603.667,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3652.972
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6744.777,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6796.723
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8327.326,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8377.408
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10002.008,
+					"pit_in_lap_count": 397,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10052.422
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 25,
+			"status": 1,
+			"delta": -3.0,
+			"sponsor_name": "Fire Alarm Services",
+			"starting_position": 18,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 86.03,
+			"average_running_position": 21.1,
+			"average_speed": 76.64,
+			"best_lap": 123,
+			"best_lap_speed": 91.62,
+			"best_lap_time": 20.668,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "37",
+			"driver": {
+				"driver_id": 4070,
+				"full_name": "Ryan Preece",
+				"first_name": "Ryan",
+				"last_name": "Preece",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12254.972,
+			"fastest_laps_run": 2,
+			"laps_position_improved": 35,
+			"laps_completed": 496,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.537,
+			"last_lap_time": 21.882,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1620.176,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 62,
+					"pit_out_elapsed_time": 1668.974
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2927.468,
+					"pit_in_lap_count": 114,
+					"pit_in_leader_lap": 114,
+					"pit_out_elapsed_time": 2975.743
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3596.106,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 133,
+					"pit_out_elapsed_time": 3648.43
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6746.264,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6798.976
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8325.45,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8374.18
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8513.294,
+					"pit_in_lap_count": 331,
+					"pit_in_leader_lap": 332,
+					"pit_out_elapsed_time": 8544.99
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10003.09,
+					"pit_in_lap_count": 396,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10054.301
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 26,
+			"status": 1,
+			"delta": -4.0,
+			"sponsor_name": "Purina",
+			"starting_position": 28,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.219,
+			"average_running_position": 28.744,
+			"average_speed": 76.426,
+			"best_lap": 279,
+			"best_lap_speed": 91.188,
+			"best_lap_time": 20.766,
+			"vehicle_manufacturer": "Tyt",
+			"vehicle_number": "96",
+			"driver": {
+				"driver_id": 4113,
+				"full_name": "* Daniel Suarez",
+				"first_name": "* Daniel",
+				"last_name": "Suarez",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12239.805,
+			"fastest_laps_run": 1,
+			"laps_position_improved": 27,
+			"laps_completed": 494,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 84.197,
+			"last_lap_time": 22.49,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1664.823,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1716.274
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3650.438,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3705.116
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6746.857,
+					"pit_in_lap_count": 262,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6801.204
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10005.858,
+					"pit_in_lap_count": 395,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10067.118
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 27,
+			"status": 1,
+			"delta": -6.0,
+			"sponsor_name": "CommScope",
+			"starting_position": 37,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.33,
+			"average_running_position": 28.262,
+			"average_speed": 76.339,
+			"best_lap": 334,
+			"best_lap_speed": 91.567,
+			"best_lap_time": 20.68,
+			"vehicle_manufacturer": "Tyt",
+			"vehicle_number": "95",
+			"driver": {
+				"driver_id": 4153,
+				"full_name": "Christopher Bell #",
+				"first_name": "Christopher",
+				"last_name": "Bell #",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12253.687,
+			"fastest_laps_run": 0,
+			"laps_position_improved": 28,
+			"laps_completed": 494,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.049,
+			"last_lap_time": 22.006,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1659.082,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1709.46
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3650.982,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3701.313
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6745.736,
+					"pit_in_lap_count": 262,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6805.939
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8320.432,
+					"pit_in_lap_count": 324,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8374.848
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10002.464,
+					"pit_in_lap_count": 394,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10065.873
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 28,
+			"status": 1,
+			"delta": -6.0,
+			"sponsor_name": "Toyota",
+			"starting_position": 32,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 88.04,
+			"average_running_position": 27.99,
+			"average_speed": 76.335,
+			"best_lap": 480,
+			"best_lap_speed": 92.353,
+			"best_lap_time": 20.504,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "41",
+			"driver": {
+				"driver_id": 4104,
+				"full_name": "Cole Custer #",
+				"first_name": "Cole",
+				"last_name": "Custer #",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12254.358,
+			"fastest_laps_run": 11,
+			"laps_position_improved": 25,
+			"laps_completed": 494,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 86.644,
+			"last_lap_time": 21.855,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1666.891,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1720.83
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3651.523,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3701.599
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6752.695,
+					"pit_in_lap_count": 263,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6802.905
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8319.93,
+					"pit_in_lap_count": 325,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8369.524
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 11787.027,
+					"pit_in_lap_count": 473,
+					"pit_in_leader_lap": 479,
+					"pit_out_elapsed_time": 11836.73
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 29,
+			"status": 1,
+			"delta": -6.0,
+			"sponsor_name": "HaasTooling.com/Jacob Co.",
+			"starting_position": 27,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 86.782,
+			"average_running_position": 31.23,
+			"average_speed": 76.32,
+			"best_lap": 151,
+			"best_lap_speed": 90.92,
+			"best_lap_time": 20.827,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "15",
+			"driver": {
+				"driver_id": 4144,
+				"full_name": "Brennan Poole #",
+				"first_name": "Brennan",
+				"last_name": "Poole #",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12256.814,
+			"fastest_laps_run": 0,
+			"laps_position_improved": 23,
+			"laps_completed": 494,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 84.638,
+			"last_lap_time": 22.373,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1668.712,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1725.576
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3653.25,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3706.965
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6749.42,
+					"pit_in_lap_count": 262,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6803.078
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8371.58,
+					"pit_in_lap_count": 325,
+					"pit_in_leader_lap": 329,
+					"pit_out_elapsed_time": 8438.461
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10005.164,
+					"pit_in_lap_count": 394,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10057.843
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 30,
+			"status": 1,
+			"delta": -6.0,
+			"sponsor_name": "Remember Everyone Deployed",
+			"starting_position": 31,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 86.394,
+			"average_running_position": 31.408,
+			"average_speed": 76.28,
+			"best_lap": 17,
+			"best_lap_speed": 90.469,
+			"best_lap_time": 20.931,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "27",
+			"driver": {
+				"driver_id": 3669,
+				"full_name": "JJ Yeley(i)",
+				"first_name": "JJ",
+				"last_name": "Yeley(i)",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12238.419,
+			"fastest_laps_run": 0,
+			"laps_position_improved": 28,
+			"laps_completed": 493,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 85.633,
+			"last_lap_time": 22.113,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1660.428,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1713.516
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3654.057,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3716.038
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6748.564,
+					"pit_in_lap_count": 262,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6807.7
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8323.543,
+					"pit_in_lap_count": 324,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8374.26
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10007.854,
+					"pit_in_lap_count": 394,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10061.413
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 31,
+			"status": 1,
+			"delta": -7.0,
+			"sponsor_name": "",
+			"starting_position": 26,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 86.554,
+			"average_running_position": 34.39,
+			"average_speed": 74.107,
+			"best_lap": 20,
+			"best_lap_speed": 90.026,
+			"best_lap_time": 21.034,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "53",
+			"driver": {
+				"driver_id": 3170,
+				"full_name": "David Starr(i)",
+				"first_name": "David",
+				"last_name": "Starr(i)",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12239.593,
+			"fastest_laps_run": 0,
+			"laps_position_improved": 13,
+			"laps_completed": 479,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 82.557,
+			"last_lap_time": 22.937,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1663.635,
+					"pit_in_lap_count": 61,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1720.368
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3655.039,
+					"pit_in_lap_count": 132,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3715.539
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6751.63,
+					"pit_in_lap_count": 259,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6808.413
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8331.578,
+					"pit_in_lap_count": 319,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8394.367
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8406.069,
+					"pit_in_lap_count": 320,
+					"pit_in_leader_lap": 330,
+					"pit_out_elapsed_time": 8470.667
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9720.491,
+					"pit_in_lap_count": 375,
+					"pit_in_leader_lap": 390,
+					"pit_out_elapsed_time": 9780.333
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10010.737,
+					"pit_in_lap_count": 383,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10059.284
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 32,
+			"status": 1,
+			"delta": -21.0,
+			"sponsor_name": "Heluva Ranch",
+			"starting_position": 33,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 89.448,
+			"average_running_position": 24.246,
+			"average_speed": 74.189,
+			"best_lap": 17,
+			"best_lap_speed": 93.221,
+			"best_lap_time": 20.313,
+			"vehicle_manufacturer": "Frd",
+			"vehicle_number": "10",
+			"driver": {
+				"driver_id": 40,
+				"full_name": "Aric Almirola",
+				"first_name": "Aric",
+				"last_name": "Almirola",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12149.417,
+			"fastest_laps_run": 24,
+			"laps_position_improved": 26,
+			"laps_completed": 476,
+			"laps_led": [
+				{
+					"start_lap": 1,
+					"end_lap": 19
+				}
+			],
+			"last_lap_speed": 74.97,
+			"last_lap_time": 25.258,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1660.992,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1721.14
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3649.838,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3697.412
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6754.535,
+					"pit_in_lap_count": 264,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6811.454
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8324.247,
+					"pit_in_lap_count": 327,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8387.681
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8924.565,
+					"pit_in_lap_count": 350,
+					"pit_in_leader_lap": 352,
+					"pit_out_elapsed_time": 9174.703
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10004.115,
+					"pit_in_lap_count": 386,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10051.714
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 11715.121,
+					"pit_in_lap_count": 460,
+					"pit_in_leader_lap": 475,
+					"pit_out_elapsed_time": 11826.536
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 33,
+			"status": 6,
+			"delta": -24.0,
+			"sponsor_name": "Smithfield",
+			"starting_position": 2,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": false,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 86.689,
+			"average_running_position": 35.926,
+			"average_speed": 73.277,
+			"best_lap": 137,
+			"best_lap_speed": 90.227,
+			"best_lap_time": 20.987,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "00",
+			"driver": {
+				"driver_id": 4229,
+				"full_name": "Quin Houff #",
+				"first_name": "Quin",
+				"last_name": "Houff #",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12248.869,
+			"fastest_laps_run": 2,
+			"laps_position_improved": 5,
+			"laps_completed": 474,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 82.291,
+			"last_lap_time": 23.011,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1659.754,
+					"pit_in_lap_count": 59,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1722.586
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3614.328,
+					"pit_in_lap_count": 128,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3677.96
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3828.471,
+					"pit_in_lap_count": 132,
+					"pit_in_leader_lap": 138,
+					"pit_out_elapsed_time": 3869.761
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6750.151,
+					"pit_in_lap_count": 253,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6809.68
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8328.082,
+					"pit_in_lap_count": 314,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8383.728
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9935.179,
+					"pit_in_lap_count": 378,
+					"pit_in_leader_lap": 398,
+					"pit_out_elapsed_time": 10005.084
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10022.381,
+					"pit_in_lap_count": 379,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10086.429
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 34,
+			"status": 1,
+			"delta": -26.0,
+			"sponsor_name": "Permatex",
+			"starting_position": 34,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 83.971,
+			"average_running_position": 36.038,
+			"average_speed": 71.705,
+			"best_lap": 23,
+			"best_lap_speed": 89.957,
+			"best_lap_time": 21.05,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "51",
+			"driver": {
+				"driver_id": 4004,
+				"full_name": "Joey Gase(i)",
+				"first_name": "Joey",
+				"last_name": "Gase(i)",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12253.329,
+			"fastest_laps_run": 1,
+			"laps_position_improved": 16,
+			"laps_completed": 464,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 85.683,
+			"last_lap_time": 22.1,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 22.494,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 1,
+					"pit_out_elapsed_time": 56.679
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1662.237,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1794.839
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3723.665,
+					"pit_in_lap_count": 131,
+					"pit_in_leader_lap": 136,
+					"pit_out_elapsed_time": 4273.417
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6753.476,
+					"pit_in_lap_count": 238,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6816.502
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 9560.483,
+					"pit_in_lap_count": 351,
+					"pit_in_leader_lap": 382,
+					"pit_out_elapsed_time": 9619.831
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 35,
+			"status": 1,
+			"delta": -36.0,
+			"sponsor_name": "Carolina SIM Works",
+			"starting_position": 36,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 87.297,
+			"average_running_position": 37.526,
+			"average_speed": 69.615,
+			"best_lap": 302,
+			"best_lap_speed": 90.473,
+			"best_lap_time": 20.93,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "77",
+			"driver": {
+				"driver_id": 4142,
+				"full_name": "Garrett Smithley(i)",
+				"first_name": "Garrett",
+				"last_name": "Smithley(i)",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 12240.383,
+			"fastest_laps_run": 0,
+			"laps_position_improved": 7,
+			"laps_completed": 450,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 81.326,
+			"last_lap_time": 23.284,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1042.499,
+					"pit_in_lap_count": 37,
+					"pit_in_leader_lap": 39,
+					"pit_out_elapsed_time": 1152.28
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1194.387,
+					"pit_in_lap_count": 39,
+					"pit_in_leader_lap": 45,
+					"pit_out_elapsed_time": 2093.996
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2103.677,
+					"pit_in_lap_count": 40,
+					"pit_in_leader_lap": 78,
+					"pit_out_elapsed_time": 2138.324
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3656.346,
+					"pit_in_lap_count": 95,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3717.736
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6795.731,
+					"pit_in_lap_count": 224,
+					"pit_in_leader_lap": 266,
+					"pit_out_elapsed_time": 6853.682
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8372.527,
+					"pit_in_lap_count": 285,
+					"pit_in_leader_lap": 329,
+					"pit_out_elapsed_time": 8439.799
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10054.969,
+					"pit_in_lap_count": 354,
+					"pit_in_leader_lap": 400,
+					"pit_out_elapsed_time": 10112.789
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 36,
+			"status": 1,
+			"delta": -50.0,
+			"sponsor_name": "Formula One Imports",
+			"starting_position": 35,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": true,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 86.81,
+			"average_running_position": 32.486,
+			"average_speed": 74.791,
+			"best_lap": 22,
+			"best_lap_speed": 91.669,
+			"best_lap_time": 20.657,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "3",
+			"driver": {
+				"driver_id": 3873,
+				"full_name": "Austin Dillon",
+				"first_name": "Austin",
+				"last_name": "Dillon",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 10102.101,
+			"fastest_laps_run": 16,
+			"laps_position_improved": 22,
+			"laps_completed": 399,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 44.042,
+			"last_lap_time": 42.995,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 96.805,
+					"pit_in_lap_count": 3,
+					"pit_in_leader_lap": 4,
+					"pit_out_elapsed_time": 213.917
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 236.573,
+					"pit_in_lap_count": 4,
+					"pit_in_leader_lap": 7,
+					"pit_out_elapsed_time": 278.047
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1710.695,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 64,
+					"pit_out_elapsed_time": 1766.458
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2978.825,
+					"pit_in_lap_count": 113,
+					"pit_in_leader_lap": 115,
+					"pit_out_elapsed_time": 3037.33
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3649.323,
+					"pit_in_lap_count": 132,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3703.319
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6754.005,
+					"pit_in_lap_count": 263,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6814.598
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 8329.324,
+					"pit_in_lap_count": 326,
+					"pit_in_leader_lap": 328,
+					"pit_out_elapsed_time": 8386.947
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10008.672,
+					"pit_in_lap_count": 397,
+					"pit_in_leader_lap": 399,
+					"pit_out_elapsed_time": 10078.389
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 10133.679,
+					"pit_in_lap_count": 399,
+					"pit_in_leader_lap": 402,
+					"pit_out_elapsed_time": 0.0
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 37,
+			"status": 3,
+			"delta": -101.0,
+			"sponsor_name": "Symbicort",
+			"starting_position": 22,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": false,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 86.712,
+			"average_running_position": 34.592,
+			"average_speed": 73.131,
+			"best_lap": 146,
+			"best_lap_speed": 90.369,
+			"best_lap_time": 20.954,
+			"vehicle_manufacturer": "Chv",
+			"vehicle_number": "7",
+			"driver": {
+				"driver_id": 3120,
+				"full_name": "* Reed Sorenson",
+				"first_name": "* Reed",
+				"last_name": "Sorenson",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 7638.548,
+			"fastest_laps_run": 0,
+			"laps_position_improved": 18,
+			"laps_completed": 295,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 70.512,
+			"last_lap_time": 26.855,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 1661.55,
+					"pit_in_lap_count": 62,
+					"pit_in_leader_lap": 63,
+					"pit_out_elapsed_time": 1716.863
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 3655.527,
+					"pit_in_lap_count": 133,
+					"pit_in_leader_lap": 134,
+					"pit_out_elapsed_time": 3715.17
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 6742.45,
+					"pit_in_lap_count": 261,
+					"pit_in_leader_lap": 265,
+					"pit_out_elapsed_time": 6807.358
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 38,
+			"status": 3,
+			"delta": -205.0,
+			"sponsor_name": "",
+			"starting_position": 39,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": false,
+			"is_on_dvp": false
+		},
+		{
+			"average_restart_speed": 86.554,
+			"average_running_position": 36.728,
+			"average_speed": 72.76,
+			"best_lap": 22,
+			"best_lap_speed": 90.15,
+			"best_lap_time": 21.005,
+			"vehicle_manufacturer": "Tyt",
+			"vehicle_number": "66",
+			"driver": {
+				"driver_id": 3984,
+				"full_name": "* Timmy Hill(i)",
+				"first_name": "* Timmy",
+				"last_name": "Hill(i)",
+				"is_in_chase": false
+			},
+			"vehicle_elapsed_time": 2732.655,
+			"fastest_laps_run": 1,
+			"laps_position_improved": 15,
+			"laps_completed": 105,
+			"laps_led": [
+
+			],
+			"last_lap_speed": 37.73,
+			"last_lap_time": 50.188,
+			"passes_made": 0,
+			"passing_differential": 0,
+			"position_differential_last_10_percent": 0,
+			"pit_stops": [
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 0.0,
+					"pit_in_lap_count": 0,
+					"pit_in_leader_lap": 0,
+					"pit_out_elapsed_time": 0.0
+				},
+				{
+					"positions_gained_lossed": 0,
+					"pit_in_elapsed_time": 2701.072,
+					"pit_in_lap_count": 104,
+					"pit_in_leader_lap": 107,
+					"pit_out_elapsed_time": 2948.289
+				}
+			],
+			"qualifying_status": 0,
+			"running_position": 39,
+			"status": 3,
+			"delta": -395.0,
+			"sponsor_name": "James Carter Attorney At Law",
+			"starting_position": 38,
+			"times_passed": 0,
+			"quality_passes": 0,
+			"is_on_track": false,
+			"is_on_dvp": false
+		}
+	],
+	"run_id": 4,
+	"run_name": "Blue-Emu Maximum Pain Relief 500",
+	"series_id": 1,
+	"time_of_day": 82118,
+	"time_of_day_os": "0001-01-01T00:00:00+00:00",
+	"track_id": 22,
+	"track_length": 0.526,
+	"track_name": "Martinsville Speedway",
+	"run_type": 3,
+	"number_of_caution_segments": 7,
+	"number_of_caution_laps": 52,
+	"number_of_lead_changes": 13,
+	"number_of_leaders": 8,
+	"avg_diff_1to3": 2623,
+	"stage": {
+		"stage_num": 3,
+		"finish_at_lap": 500,
+		"laps_in_stage": 240
+	}
+}
