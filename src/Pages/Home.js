@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Header, Item } from 'semantic-ui-react'
+import { Container, Item } from 'semantic-ui-react'
 import Async from 'react-async';
 import Parser from 'html-react-parser';
 
