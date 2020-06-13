@@ -1,1 +1,8 @@
+# node.js
 node_modules
+.env
+
+# python
+venv
+
+.vscode

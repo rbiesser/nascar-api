@@ -1,5 +1,6 @@
 import React from 'react'
-import { Container, Header, Card } from 'semantic-ui-react'
+import { Link } from 'react-router-dom'
+import { Container, Header, Card, Grid } from 'semantic-ui-react'
 import Async from 'react-async';
 
 const loadTracks = () =>
@@ -18,9 +19,14 @@ export default function Tracks() {
 					if (data)
 						return (
 							<div>
-								<div>
-									<Header as='h1' content='Tracks' />
-								</div>
+								<Grid>
+										<Grid.Column width={10}>
+											<Header as='h1' content='Tracks' />
+										</Grid.Column>
+										<Grid.Column floated='right' width={2}>
+											<Link to='/tracks/map' className='ui button primary'>View Map</Link>
+										</Grid.Column>
+								</Grid>
 								<Card.Group itemsPerRow={5} doubling>
 									{data.items.map(track => (
 										<Card

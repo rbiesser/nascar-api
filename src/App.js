@@ -16,6 +16,7 @@ import Tracks from './Pages/Tracks'
 import Schedule from './Pages/Schedule'
 import Standings from './Pages/Standings'
 import Home from './Pages/Home'
+import TracksMap from './Pages/TracksMap'
 
 export default function App() {
 		return (
@@ -31,6 +32,7 @@ export default function App() {
 					<main>
 						<Switch>
 							<Route path='/drivers' component={Drivers} />
+							<Route path='/tracks/map' component={TracksMap} />
 							<Route path='/tracks' component={Tracks} />
 							<Route path='/schedule' component={Schedule} />
 							<Route path='/standings' component={Standings} />

@@ -1,0 +1,408 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90554636691493,
+          34.29517345
+        ]
+      },
+      "properties": {
+        "title": "Darlington Raceway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25700273678561,
+          36.515724000000006
+        ]
+      },
+      "properties": {
+        "title": "Bristol Motor Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.84639533266454,
+          36.6353555
+        ]
+      },
+      "properties": {
+        "title": "Martinsville Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41933815278796,
+          37.5922778
+        ]
+      },
+      "properties": {
+        "title": "Richmond International Raceway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.49942601393725,
+          34.08824345
+        ]
+      },
+      "properties": {
+        "title": "Auto Club Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05876255177395,
+          41.47441105
+        ]
+      },
+      "properties": {
+        "title": "Chicagoland Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40943043188099,
+          25.45175165
+        ]
+      },
+      "properties": {
+        "title": "Homestead-Miami Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.83060445285224,
+          39.1158122
+        ]
+      },
+      "properties": {
+        "title": "Kansas Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0131184,
+          36.2739166
+        ]
+      },
+      "properties": {
+        "title": "Las Vegas Motor Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2838204125359,
+          33.036838200000005
+        ]
+      },
+      "properties": {
+        "title": "Texas Motor Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.91621243965287,
+          38.71107815
+        ]
+      },
+      "properties": {
+        "title": "Kentucky Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.06657144018567,
+          33.564928550000005
+        ]
+      },
+      "properties": {
+        "title": "Talladega Superspeedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4547007585656,
+          38.159486799999996
+        ]
+      },
+      "properties": {
+        "title": "Sonoma Raceway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5303723951515,
+          39.189684
+        ]
+      },
+      "properties": {
+        "title": "Dover International Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07031856465966,
+          29.18400735
+        ]
+      },
+      "properties": {
+        "title": "Daytona International Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31252119722481,
+          33.390276650000004
+        ]
+      },
+      "properties": {
+        "title": "Atlanta Motor Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2395755,
+          39.7971475
+        ]
+      },
+      "properties": {
+        "title": "Indianapolis Motor Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24932569028121,
+          42.06568255
+        ]
+      },
+      "properties": {
+        "title": "Michigan International Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4620406,
+          43.3598227
+        ]
+      },
+      "properties": {
+        "title": "New Hampshire Motor Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92504880603917,
+          42.336380500000004
+        ]
+      },
+      "properties": {
+        "title": "Watkins Glen International"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51034422309803,
+          41.05534835
+        ]
+      },
+      "properties": {
+        "title": "Pocono Raceway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63635533493026,
+          40.68900855
+        ]
+      },
+      "properties": {
+        "title": "Mid-Ohio Sports Car Course"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9898574,
+          43.8049423
+        ]
+      },
+      "properties": {
+        "title": "Road America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.63385385386567,
+          40.3186573
+        ]
+      },
+      "properties": {
+        "title": "Eldora Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.67451128931731,
+          44.049138549999995
+        ]
+      },
+      "properties": {
+        "title": "Canadian Tire Motorsport Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.68390123780337,
+          35.35121205
+        ]
+      },
+      "properties": {
+        "title": "Charlotte Motor Speedway Road Course"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2395755,
+          39.7971475
+        ]
+      },
+      "properties": {
+        "title": "Indianapolis Motor Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.13554906209112,
+          38.6511242
+        ]
+      },
+      "properties": {
+        "title": "Gateway International Raceway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.31082891531409,
+          33.374624999999995
+        ]
+      },
+      "properties": {
+        "title": "Phoenix Raceway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.01345263405133,
+          41.674520900000005
+        ]
+      },
+      "properties": {
+        "title": "Iowa Speedway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6836796,
+          35.3474866
+        ]
+      },
+      "properties": {
+        "title": "Charlotte Motor Speedway"
+      }
+    }
+  ]
+}
