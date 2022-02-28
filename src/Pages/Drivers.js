@@ -3,7 +3,7 @@ import { Container, Header, Card } from 'semantic-ui-react'
 import Async from 'react-async';
 
 const loadDrivers = () =>
-	fetch("https://www.nascar.com/json/drivers/")
+	fetch("https://www.nascar.com/json/drivers/?category=nascar-cup-series")
 		.then(res => (res.ok ? res : Promise.reject(res)))
 		.then(res => res.json())
 
